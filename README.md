@@ -1,9 +1,3 @@
-maven-illuminate
-================
-
-Maven output can be messy. Highlight what's important and hide the junk with color and compression.
-
-
 Maven Illuminate script
 =============================================
 
@@ -22,7 +16,7 @@ To set up the script you need to perform the following steps.
 * Save the script file to your home directory (or anywhere else)
 * Source the script file in the `.bash_profile` file in your home directory:
 
-    source ~/mvn-color-and-compact.sh  #Maven Illuminate script
+    source ~/maven-illuminate.sh  #Maven Illuminate script
 
 * Restart your terminal or re-login
 
